@@ -3,9 +3,6 @@
 
 <div class="mycontainer">
     <div>
-        <img height=150 src="https://media.licdn.com/dms/image/C4E03AQEMzAUsSH6xbA/profile-displayphoto-shrink_200_200/0/1604513037929?e=1720051200&v=beta&t=gM52WUUwZF4aCoXHH7i14uggMGebyhKdmBWSmgzQHWU">
-    </div>
-    <div>
 
 - Computer Engineer
 - AI Analyst
