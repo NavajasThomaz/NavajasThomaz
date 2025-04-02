@@ -81,9 +81,3 @@ My journey into programming began in 2014 at SuperGeeks, fueled by an affinity f
 </div>
 <br>
 
-### Workspace Specs 💻
-
-*   **OS:** Windows 10 Pro
-*   **CPU:** AMD Ryzen 7 5800X
-*   **GPU:** NVIDIA GeForce RTX 2070 Super
-*   **IDEs:** VS Code, PyCharm, Visual Studio, Google Colab, RStudio, Arduino IDE, and more.
