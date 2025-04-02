@@ -66,7 +66,6 @@ Feel free to explore my repositories and connect with me!
 ### Main Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NavajasThomaz&repo=TumorVision&theme=transparent)](https://github.com/NavajasThomaz/TumorVision)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NavajasThomaz&repo=Modular_Neural_Network_Toolkit&theme=transparent)](https://github.com/NavajasThomaz/Modular_Neural_Network_Toolkit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NavajasThomaz&repo=Cloud-Verse&theme=transparent)](https://github.com/NavajasThomaz/Cloud-Verse)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NavajasThomaz&repo=Scikit-Learn-Tutorial&theme=transparent)](https://github.com/NavajasThomaz/Scikit-Learn-Tutorial)
 
